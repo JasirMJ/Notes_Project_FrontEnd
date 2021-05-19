@@ -10,6 +10,10 @@ Extract the files
 
 Enter in to the main directory
 
-## Step 2
+## Step 3
 
-run the command "yarn" in command prompt or in terminal, 
+run the command "yarn" in command prompt or in terminal to install required packages
+
+## Step 4
+
+Once all packages are installed then run the command "yarn start" to start working
